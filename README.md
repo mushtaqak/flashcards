@@ -4,6 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
+* [Supported Devices](#supported-devices)
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
@@ -26,6 +27,10 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+
+
+## Supported Devices
+  - This app is tested in Android platform on Redmi Note 4 mobile device and Android emulator.
 
 ## Updating to New Releases
 
