@@ -16,9 +16,11 @@ ReactNative Redux based Flashcard app which helps in creating quiz and decks and
 
 ## How to setup
   ```
-  npm insatll
+  npm install
   npm start
-  press a to view app on Android
+
+  › Press a to open Android device or emulator.
+  › Press q to display QR code.
   ```
 
 ## Supported Devices
