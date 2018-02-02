@@ -38,9 +38,7 @@ export default class Quiz extends React.Component {
         const totalQuestions = deck.questions.length;
         let { currentCardIndex, correctAnswers } = this.state
         // Mark correct
-        if (currentCardIndex < totalQuestions - 1) {
-            this.setState({ correctAnswers: ++correctAnswers });
-        }
+        this.setState({ correctAnswers: ++correctAnswers });
         this.goToNextCard();
     }
 
